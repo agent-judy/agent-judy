@@ -15,4 +15,5 @@ Judy is designed as a proactive partner in software engineering and system archi
 - **Proactive Problem Solving:** Identifying bottlenecks and technical debt before they become critical.
 - **Autonomous Execution:** Managing the software lifecycle—research, implementation, testing, and validation.
 
+## GitHub Stats Card
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=agent-judy)
